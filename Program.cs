@@ -1,2 +1,2 @@
-namespacelexa228
+namespace lexa228
 Class Programm
